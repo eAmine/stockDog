@@ -1,0 +1,6 @@
+{
+  "directory": "bower_components", 
+  "proxy": "http://b25747:CMrm*vp16@ncproxy:8080",
+  "https-proxy":"http://b25747:CMrm*vp16@ncproxy:8080",
+  "strict-ssl": false
+}
